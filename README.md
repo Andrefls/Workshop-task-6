@@ -1,6 +1,6 @@
 - Welbsite Link: https://andrefls.github.io/Workshop-task-6/
 
-- THIS WORKSHOP IS FORKING WORK FROM, Her notes will be at the end of the page after title "ORIGINAL WORK BELOW"
+- THIS WORKSHOP IS A FORKING WORK FROM mzhu933. Original notes will be at the end of the page after title "ORIGINAL WORK BELOW"
 
 
 
