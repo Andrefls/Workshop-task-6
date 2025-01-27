@@ -89,8 +89,6 @@ ________________________________________________________________________________
 - In conclusion, no matter how much you struggle with something, it’s important to give it a second try.
 
 - I hope my classmates appreciate the approach I took in my work.
-
--
 _________________________________________________________________________________________
 
 # ORIGINAL WORK BELOW
