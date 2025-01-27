@@ -77,6 +77,9 @@ ________________________________________________________________________________
 
 - Finally, I managed to get my project working. It looks cool, and I challenged myself while practising this data topic.
 
+- <img width="1493" alt="Screenshot 2025-01-23 at 12 58 42 pm" src="https://github.com/user-attachments/assets/3f18b305-9c55-441d-b132-123d142aa1e5" />
+
+
 ## Future development
 
 - I would love to learn how to capture live data and represent it using moving objects from my paintings.
