@@ -11,11 +11,16 @@ ________________________________________________________________________________
 
 - I started the task by using the provided example as a learning opportunity regarding data. I tweaked a few details and became familiar with the codes that were used in the lecture.
 
+- <img width="1728" alt="Screenshot 2025-01-23 at 1 33 59 pm" src="https://github.com/user-attachments/assets/4f0c6384-164f-4483-87c9-bd2975e1dc31" />
+
+
 - I visited https://github.com/ and tried to add as many classmates as I could find on our Canvas page. Once I added them, I came across a project that I could use.
 
 - The project I selected was at https://mzhu933.github.io/workshop5/. I liked this classmate's idea because it developed a concept I have been pondering about in my art. I have always wanted to capture the emotions or moods that people experience when they look at a painting.
 
 - I began by reading her idea and reviewing her code.
+
+- <img width="882" alt="Screenshot 2025-01-23 at 5 04 54 pm" src="https://github.com/user-attachments/assets/108fb0e6-61a8-45cf-a0b7-5868c6248e9a" />
 
 - After watching the class video from 
 
@@ -27,11 +32,15 @@ ________________________________________________________________________________
 
 - Following the lecturer's advice, I deleted all the code and started again. This time, I used my basic exercise from the previous workshop, which worked correctly.
 
-- Slowly, I began adding my classmate's images and modifying her idea to make it more straightforward. 
+- Slowly, I began adding my classmate's images and modifying her idea to make it more straightforward.
+
+- <img width="1652" alt="Screenshot 2025-01-23 at 8 32 29 pm" src="https://github.com/user-attachments/assets/3cd57815-1190-4cda-b005-2242386de46a" />
 
 - I ended up using the lecturer's examples of dropdown options and adjusting her concept to suit this approach.
 
 - Unfortunately, after a long attempt, the images kept disappearing whenever I selected a new option. I asked Leo, our lecturer, about this, and he explained that functions can be called as many times as we want, which I did not know.
+
+- <img width="1606" alt="Screenshot 2025-01-23 at 8 02 03 pm" src="https://github.com/user-attachments/assets/4c2dda01-7097-4330-a142-e7d47380b342" />
 
 - After calling the function again, that resolved the problem.
 
@@ -45,6 +54,9 @@ ________________________________________________________________________________
 
 - Then I wanted to replace the button with an image. This aspect was somewhat challenging, as it wasn't covered in class.
 
+- <img width="1378" alt="Screenshot 2025-01-23 at 10 15 10 am" src="https://github.com/user-attachments/assets/6c4ad759-e6ab-4a11-96bf-cc9ab69ca412" />
+
+
 - To tackle this,
 
 - I visited
@@ -56,6 +68,12 @@ ________________________________________________________________________________
 - for additional guidance. I got my project very close to what I envisioned, but I needed to clarify something because the button size was incorrect.
 
 - I looked up button styles on Google and found a solution (image below).
+
+- <img width="942" alt="Screenshot 2025-01-23 at 11 32 53 am" src="https://github.com/user-attachments/assets/1bdc51b7-b36d-485e-a5c2-c22e15ae9265" />
+
+- I also downloaded a font
+  
+- <img width="806" alt="Screenshot 2025-01-23 at 9 56 37 am" src="https://github.com/user-attachments/assets/ea00e1f4-7a0a-4a97-bb15-5788d229f811" />
 
 - Finally, I managed to get my project working. It looks cool, and I challenged myself while practising this data topic.
 
@@ -69,7 +87,6 @@ ________________________________________________________________________________
 
 - I hope my classmates appreciate the approach I took in my work.
 
--
 -
 _________________________________________________________________________________________
 
