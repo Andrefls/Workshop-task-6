@@ -1,47 +1,78 @@
 - Welbsite Link: https://andrefls.github.io/Workshop-task-6/
 
-- THIS WORKSHOP IS A FORKING WORK FROM mzhu933. Original notes will be at the end of the page after title "ORIGINAL WORK BELOW"
+# THIS WORKSHOP IS A FORKING WORK FROM mzhu933. Original notes will be at the end of the page after title "ORIGINAL WORK BELOW"
 
+## Synopsis
 
+- When I began working on this workshop task, I had a clear idea of what I wanted to do. Since everything related to data tends to be complicated for me, especially using spreadsheets. I decided to focus my task on this area. I aimed to challenge myself and learn in the process.
 
+## Summary/Problem-solving
 
+- I started the task by using the provided example as a learning opportunity regarding data. I tweaked a few details and became familiar with the codes that were used in the lecture.
 
+- I visited https://github.com/ and tried to add as many classmates as I could find on our Canvas page. Once I added them, I came across a project that I could use.
 
+- The project I selected was at https://mzhu933.github.io/workshop5/. I liked this classmate's idea because it developed a concept I have been pondering about in my art. I have always wanted to capture the emotions or moods that people experience when they look at a painting.
 
+- I began by reading her idea and reviewing her code.
 
+- After watching the class video from 
 
+- https://canvas.auckland.ac.nz/courses/121821/pages/week-1-overview?module_item_id=2435967, 
 
+- I decided to start my task by copying her code into my VScodium. However, I started struggling with some errors that appeared on my screen.
 
+- I reached out to our lecturer for help with those errors. After some time spent trying to resolve the issues, I realized that the main reason for the problems was my misunderstanding of some syntax my classmate had used. 
 
+- Following the lecturer's advice, I deleted all the code and started again. This time, I used my basic exercise from the previous workshop, which worked correctly.
 
+- Slowly, I began adding my classmate's images and modifying her idea to make it more straightforward. 
 
+- I ended up using the lecturer's examples of dropdown options and adjusting her concept to suit this approach.
 
+- Unfortunately, after a long attempt, the images kept disappearing whenever I selected a new option. I asked Leo, our lecturer, about this, and he explained that functions can be called as many times as we want, which I did not know.
 
+- After calling the function again, that resolved the problem.
 
+- Once that was sorted out, I applied RiTa, which was straightforward as I followed the lecture's example closely.
+
+- However, I encountered complications when trying to incorporate the other RiTa example.
+
+- I wanted to ensure that if RiTa did not find a word that rhymed with the phrase, it would find a word that sounded similar.
+
+- I followed the lecturer's instructions and after a few trials, I got the new function to work.
+
+- Then I wanted to replace the button with an image. This aspect was somewhat challenging, as it wasn't covered in class.
+
+- To tackle this,
+
+- I visited
+
+- https://editor.p5js.org/emmajaneculhane/sketches/WKwR76epN
+
+- and https://editor.p5js.org/kjhollen/sketches/dHOoxK_hD
+
+- for additional guidance. I got my project very close to what I envisioned, but I needed to clarify something because the button size was incorrect.
+
+- I looked up button styles on Google and found a solution (image below).
+
+- Finally, I managed to get my project working. It looks cool, and I challenged myself while practising this data topic.
+
+## Future development
+
+- I would love to learn how to capture live data and represent it using moving objects from my paintings.
+
+## Conclusion
+
+- In conclusion, no matter how much you struggle with something, it’s important to give it a second try.
+
+- I hope my classmates appreciate the approach I took in my work.
 
 -
 -
 -
 -
 -
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 # ORIGINAL WORK BELOW
 
