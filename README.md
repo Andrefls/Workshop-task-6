@@ -1,9 +1,8 @@
 - Welbsite Link: https://andrefls.github.io/Workshop-task-6/
 
 ## THIS WORKSHOP IS A FORKING WORK FROM mzhu933. Original notes will be at the end of the page after title "ORIGINAL WORK BELOW"
-
 -
--
+_______________________________________________________________________________________________________________________________________________
 ## Synopsis
 
 - When I began working on this workshop task, I had a clear idea of what I wanted to do. Since everything related to data tends to be complicated for me, especially using spreadsheets. I decided to focus my task on this area. I aimed to challenge myself and learn in the process.
@@ -72,9 +71,7 @@
 
 -
 -
--
--
--
+_________________________________________________________________________________________
 
 # ORIGINAL WORK BELOW
 
